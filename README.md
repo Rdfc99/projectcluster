@@ -45,7 +45,7 @@ This project implements various clustering techniques on the SWE-Bench Verified 
 **Note:** Both CSV files must be present in the same directory as the notebooks for proper execution.
 
 ## Requirements
-
+```
 # Core libraries
 pandas>=1.3.0
 numpy>=1.21.0
@@ -66,7 +66,7 @@ unidiff>=0.7.0
 # For notebooks
 jupyter>=1.0.0
 ipykernel>=6.0.0
-
+```
 ## Usage
 Run the notebooks in order:
 
