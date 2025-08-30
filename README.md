@@ -1,7 +1,7 @@
-# Mixed-Type Data Clustering Project
+# Foundational Problem-Solving Patterns in Benchmark Tasks: A Mixed-Type Clustering Analysis of SWE-Bench Verified
 
 ## Overview
-This project implements various clustering techniques on mixed-type data, including numerical, categorical, ordinal and text features. The analysis is divided into three main components: traditional clustering methods, semantic text analysis, and unified clustering approaches.
+This project implements various clustering techniques on the SWE-Bench Verified dataset, a curated subset of 500 software engineering tasks from real GitHub issues. The analysis explores mixed-type data clustering using numerical, categorical, ordinal and text features. The analysis is divided into three main components: traditional clustering methods, semantic text analysis, and unified clustering approaches.
 
 ## Project Structure
 ```
