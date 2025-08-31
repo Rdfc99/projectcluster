@@ -81,4 +81,4 @@ Run the notebooks in order:
 ## Author
 Renuka Fernandez
 ## License
-MIT License - see LICENSE file for details
+CC-BY-4.0 - see LICENSE file for details
